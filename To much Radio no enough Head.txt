@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Much Radio, Not Enough Head</title>
+    <style>
+        /* Estilo general */
+        body {
+            background: black;
+            color: yellow;
+            font-family: "Comic Sans MS", cursive, sans-serif;
+            font-size: 60px;
+            text-align: center;
+            background-image: url('image-from-rawpixel-id-12672331-png.png'); /* Imagen del fondo */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+          
+        }
+
+        h1 {
+            color: white;
+            font-size: 100px;
+            text-shadow: 2px 2px 5px #ff00ff;
+        }
+
+        .rainbow-text {
+            font-size: 200px;
+            animation: rainbow 3s infinite linear;
+        }
+
+        @keyframes rainbow {
+            0% { color: red; }
+            25% { color: yellow; }
+            50% { color: green; }
+            75% { color: blue; }
+            100% { color: purple; }
+        }
+
+        /* Texto con parpadeo */
+        .viaje-cool {
+            animation: flash 1.5s infinite alternate;
+        }
+
+        @keyframes flash {
+            from { color: cyan; text-shadow: 0 0 5px cyan; }
+            to { color: magenta; text-shadow: 0 0 20px magenta; }
+        }
+
+
+        h2 {
+            color: white;
+            font-size: 50px;
+            text-shadow: 2px 2px 5px #ff00ff;
+        }
+ 
+        h3 {
+            color: white;
+            font-size: 50px;
+            text-shadow: 2px 2px 5px #ff00ff;
+        }
+
+        h4 {
+            color: white;
+            font-size: 50px;
+            text-shadow: 2px 2px 5px #ff00ff;
+        }
+    
+     </style>
+  </head>
+<body>
+   
+    <h1 style="border: 2px solid yellow; padding: 10px;">Conozcan a... <br> <span class="rainbow-text">RADIOHEAD</span></h1>
+    <p>Radiohead es considerada una de las bandas más incríbles de la historia, solo le gusta a la gente buena onda.</p>
+    <p>¿Están listos para un <span class="viaje-cool"> viaje muy cool?</span></p>
+    <p><strong>¡Pues sube el volumen y disfruta!</strong></p>
+    
+    <p>Aquí tienes un poco de inspiración musical:</p>
+    <img src="https://media.giphy.com/media/57xpRm0zqpJzVp2r2o/giphy.gif?cid=ecf05e47ftxszsu9plud9k7vcw7vr8e8xw47brc8dyehwvmm&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Radiohead en acción" style="width: 500px; border: 3px solid yellow; border-radius: 10px;">
+    <p>Los conocedores saben que el Gif que aparece arriba es de la portada de Kid A, mi álbum favorito en lo personal. La canción que podrás reprodicir aquí abajo se llama Permanet Daylight, del EP My Iron Lung, disfrútala mistras lees lo demás</p> 
+    
+<div class="audio-container">   
+    <audio controls class="custom-audio">
+        <source src="Permanent Daylight (1).mp3" type="audio/mpeg"> 
+    </audio>
+</div>    
+    <style>
+        
+        .audio-container {
+            background-color: black;
+            padding: 10px;
+            border: 3px solid yellow;
+            border-radius: 10px;
+            display: inline-block;
+
+         }
+
+        .custom-audio {
+            width: 400px; 
+            height: 40px;
+
+         }
+     </style>
+
+  
+
+    <h2>Álbumes y EP</h2>
+    <p>A continuación te dejaré una lista de todos los álbumes y EP de Radiohead, te recomiendo escucharlos todos.</p>
+    <ul align="left"> 
+       <li><strong>Drill EP:</strong> En 1992, se lanzó el sencillo "Prove Yourself" de este EP.</li>
+       <li><strong>Pablo Honey:</strong> En 1993, se lanzaron los sencillos "Creep", "Anyone Can Play Guitar" y "Pop is Deas" de este álbum.</li>
+       <li><strong>OK Computer:</strong> En 1997, se lanzó este álbum, que marcó la transición de la música popular al nuevo milenio.</li>
+       <li><strong>Kid A y Amnesiac:</strong> En 1999-2001, se lanzaron estos álbumes, que marcaron un cambio de sonido muy especial.</li>
+       <li><strong>Hail to the Thief:</strong> En 2002-2004, se lanzó este increíble álbum.</li>
+       <li><strong>In Rainbows:</strong> En 2005-2008, se lanzó In Rainbows, uno de los mejores álbumes de la historia, canciones increíbles como "Weird Fishes/Arpeggi", "All I Need" y "Jigsaw Falling Into Place".</li>
+       <li><strong>The King of Limbs:</strong> En 2009-2012, se lanzó este álbum.</li>
+       <li><strong>A Moon Shaped Pool:</strong> En 2013-2016, se lanzó este álbum, uno de los más tristes por muchas razones, la razón principal, si me lo preguntas a mí, es que fue su último álbum como Radiohead. En esta obra de arte podemos encontras joyas como "Glass Eyes", "The Numbers", "Identikit" y todo el álbum en general.</li>
+     </ul>
+ 
+  <hr style="border: 2px solid yellow; width: 80%; margin: 20px auto;">
+
+    <h3>Los integrantes de Radiohead</h3>
+    <p><strong>Thom Yorke</strong></p>
+    <img src="C:\Users\paula\Downloads\Página Web\thom.jpg" alt="Imagen de Thom Yorke" style="width: 500px; border: 3px solid yellow; border-radius: 10px;">
+    <p>Nació el 7 de octubre de 1968. Fue la voz, guitarra y piano de la banda, además de haber sido el líder y principal compositor. Posiblemente el miembro más polémico y también más influyente en cuanto a lo político en las músicas y decisiones de la banda.</p>
+    <p><strong>Jonny Greenwood</strong></p>
+    <img src="C:\Users\paula\Downloads\Página Web\jonny.jpg" alt="Imagen de Jonny Greenwood" style="width: 500px; border: 3px solid yellow; border-radius: 10px2;>
+    <p>Nació el 5 de noviembre de 1971. Era el más joven de la banda y hermano menor de Colin Greenwood. En Radiohead él era el encargado de la guitarra principal, teclado y otros instrumentos los cuales ha usao en sus grabaciones.</p>
+    <p><strong>Ed O'Brien</strong></p>
+    <img src="C:\Users\paula\Downloads\Página Web\ed.jpg" alt="Imagen de Ed O'Brien" style="width: 500px; border: 3px solid yellow; border-radius: 10px;">
+    <p>El 15 de abril de 1968 nace el que sería guitarrista y segunda voz de la famosa banda Radiohead. Está desde los inicios de ésta y curiosamente fue motivado a unirse a la banda por Thom, quien comentó que O'Brien se parecía al cantante de The Smiths.</p>
+    <p><strong>Colin Greendwood</strong></p>
+    <img src="C:\Users\paula\Downloads\Página Web\colin.jpg" alt="Imagen de Colin Greenwood" style="width: 500px; border: 3px solid yellow; border-radius: 10px;">
+    <p>Nació el 26 de junio de 1969 y es hermano mayor de Jonny. Conoció a Thom Yorke en la escuela y desde entonces establecieron una amistad que primero formó la banda On a Friday. Fue el bajista de la banda auqnue, al igual que su hermano, también es multiinstrumentista y sabe tocar más de 5 instrumentos.</p>
+    <p><strong>Phil Selway</strong></p>
+    <img src="C:\Users\paula\Downloads\Página Web\phil.jpg" alt="Imagen de Phil Selway" style="width: 500px; border: 3px solid yellow; border-radius: 10px;">
+    <p>Nació el 23 de mayo de 1967, fue el baterista de la banda. Al igual que los otros integrantes, se conocieron en la escuela y de allí fundaron Radiohead.
+
+  <hr style="border: 2px solid yellow; width: 80%; margin: 20px auto;">
+
+    <h4>¿Y Radiohead?</h4>
+    <p>En 2018 Radiohead lazó un comunicado para decir que sus actividades como banda tendrían una pausa. Después de publicar su noveno álbum de estudio, A Moon Shaped Pool, en 2016, la banda emprendió una gira mundial que duró hasta 2018. Tras la gira Radiohead se tomó un descanso para trabajar en proyectos personales y pasar tiempo con sus familias. Los fans estabamos esperanzados con su reencuentro, hace unos meses se hizo viral el rumor de que la banda volvería, pero Thom Yorke se anunció diciendo que le importaba un carajo que los fans quisieran que la banda volviera a hacer música. Parece que no habrá más Radiohead, pero igual me parece necesario invitarlos a ver lo que cada uno hace por separado, les prometo que no se arrepentirán.</h3>    
+    <p>Muchas gracias por haber leído esta poca información sobre una de las mejores bandas de todos los tiempos, en serio espero que escuchen alguna de sus canciones.</p>
+
+<img src="https://media.giphy.com/media/xT8qBt2943MLRO8zuM/giphy.gif?cid=790b7611q8hg8cu5k0j2gaz6wmyy4ll1jg3vjs2i7rksz8jl&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Gato Explosión" style="width: 2000px; border: 3px solid yellow; border-radius: 10px;">
+
+  </body>
+</html>
